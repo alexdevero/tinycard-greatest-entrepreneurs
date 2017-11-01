@@ -1,0 +1,192 @@
+{
+	"card-one": {
+		"fact": "Founder of New York Central Railroad",
+		"image": "",
+		"name": "Cornelius Vanderbilt"
+	},
+  "card-two": {
+		"fact": "Founder of Standart Oil Company",
+		"image": "",
+		"name": "John D. Rockefeller"
+	},
+  "card-three": {
+		"fact": "Founder of Carnegie Steel Company",
+		"image": "",
+		"name": "Andrew Carnegie"
+	},
+  "card-four": {
+		"fact": "Founder of The Walt Disney Company",
+		"image": "",
+		"name": "Walt Disney"
+	},
+  "card-five": {
+		"fact": "Founder of Microsoft",
+		"image": "",
+		"name": "Bill Gates"
+	},
+  "card-six": {
+		"fact": "Founder of Apple Inc.",
+		"image": "",
+		"name": "Steve Jobs"
+	},
+  "card-seven": {
+		"fact": "Founder of General Electric",
+		"image": "",
+		"name": "Thomas Edison"
+	},
+	"card-eight": {
+		"fact": "Founder of Ford Motor Company",
+		"image": "",
+		"name": "Henry Ford"
+	},
+  "card-nine": {
+		"fact": "Founder of Wal-Mart",
+		"image": "",
+		"name": "Sam Walton"
+	},
+  "card-ten": {
+		"fact": "Founder of JP Morgan",
+		"image": "",
+		"name": "John Pierpont Morgan"
+	},
+  "card-eleven": {
+		"fact": "Founder of Oracle",
+		"image": "",
+		"name": "Larry Ellison"
+	},
+  "card-twelve": {
+		"fact": "Co-founder of Google",
+		"image": "",
+		"name": "Sergey Brin"
+	},
+  "card-thirteen": {
+		"fact": "Co-founder of Google",
+		"image": "",
+		"name": "Larry Page"
+	},
+  "card-fourteen": {
+		"fact": "Founder of Dell",
+		"image": "",
+		"name": "Richard Branson"
+	},
+	"card-fifteen": {
+		"fact": "Founder of Zip2, PayPal, Tesla, and SpaceX",
+		"image": "",
+		"name": "Elon Musk"
+	},
+  "card-sixteen": {
+		"fact": "Founder of McDonald's",
+		"image": "",
+		"name": "Ray Croc"
+	},
+  "card-seventeen": {
+		"fact": "Founder of Amazon",
+		"image": "",
+		"name": "Jeff Bezos"
+	},
+  "card-eighteen": {
+		"fact": "Founder of Alibaba",
+		"image": "",
+		"name": "Jack Ma"
+	},
+  "card-nineteen": {
+		"fact": "Founder of Dell",
+		"image": "",
+		"name": "Michael Dell"
+	},
+  "card-twenty": {
+		"fact": "Founder of Facebook",
+		"image": "",
+		"name": "Mark Zuckerberg"
+	},
+	"card-twenty-one": {
+		"fact": "Co-founder of Microsoft",
+		"image": "",
+		"name": "Paul Allen"
+	},
+  "card-twenty-two": {
+		"fact": "Founder of Fairchild Semiconductor",
+		"image": "",
+		"name": "Gordon Moore"
+	},
+	"card-twenty-three": {
+		"fact": "Co-founder of Fairchild Semiconductor",
+		"image": "",
+		"name": "Robert Noyce"
+	},
+	"card-twenty-four": {
+		"fact": "Founder of AOL",
+		"image": "",
+		"name": "Steve Case"
+	},
+	"card-twenty-five": {
+		"fact": "Founder of Netscape",
+		"image": "",
+		"name": "Marc Andreessen"
+	},
+	"card-twenty-six": {
+		"fact": "Founder of N. M. Rothschild and Sons",
+		"image": "",
+		"name": "Nathan Mayer Rotschild"
+	},
+	"card-twenty-seven": {
+		"fact": "Founder of Nike",
+		"image": "",
+		"name": "Phil Knight"
+	},
+	"card-twenty-eight": {
+		"fact": "Founder of Electronic Data Systems",
+		"image": "",
+		"name": "Henry Ross Perot"
+	},
+	"card-twenty-nine": {
+		"fact": "Founder of Getty Oil Company",
+		"image": "",
+		"name": "Jean Paul Getty"
+	},
+	"card-thirty": {
+		"fact": "Founder of Grupo Carso",
+		"image": "",
+		"name": "Carlos Slim Helú"
+	},
+	"card-thirty-one": {
+		"fact": "Co-founder of Hewlett-Packard",
+		"image": "",
+		"name": "Bill Hewlett"
+	},
+	"card-thirty-two": {
+		"fact": "Co-founder of Hewlett-Packard",
+		"image": "",
+		"name": "David Packard"
+	},
+	"card-thirty-three": {
+		"fact": "Founder of TBS",
+		"image": "",
+		"name": "Ted Turner"
+	},
+	"card-thirty-four": {
+		"fact": "Founder of Yahoo!",
+		"image": "",
+		"name": "Jerry Yang"
+	},
+	"card-thirty-five": {
+		"fact": "Founder of Atari",
+		"image": "",
+		"name": "Nolan Bushnell"
+	},
+	"card-thirty-six": {
+		"fact": "Founder of IKEA",
+		"image": "",
+		"name": "Ingvar Kamprad"
+	},
+	"card-thirty-seven": {
+		"fact": "Founder of Inditex",
+		"image": "",
+		"name": "Amancio Ortega Gaona"
+	},
+	"card-thirty-eight": {
+		"fact": "Founder of Kodak",
+		"image": "",
+		"name": "George Eastman"
+	},
+}
