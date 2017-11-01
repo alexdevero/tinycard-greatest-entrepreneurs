@@ -1,0 +1,35 @@
+{
+  "name": "tinycards-greatest-entrepreneurs",
+  "version": "0.0.1",
+  "description": "Repository for card deck on TinyCards. Have fun!",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdevero/tinycards-greatest-entrepreneurs.git"
+  },
+  "homepage": "https://github.com/alexdevero/tinycards-greatest-entrepreneurs#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/tinycards-greatest-entrepreneurs/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "email": "deveroalex@gmail.com",
+    "url": "https://alexdevero.com/"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "cards",
+    "entrepreneur",
+    "entrepreneurs",
+    "flash cards",
+    "game",
+    "great",
+    "history",
+    "learning",
+    "open",
+    "open-source",
+    "tinycards"
+  ]
+}
