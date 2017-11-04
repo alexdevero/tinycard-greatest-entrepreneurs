@@ -188,5 +188,15 @@
 		"fact": "Founder of Facebook",
 		"image": "./images/.jpg",
 		"name": "Mark Zuckerberg"
+	},
+	"card-thirty-nine": {
+		"fact": "Co-founder of Instagram",
+		"image": "./images/.jpg",
+		"name": "Kevin Systrom"
+	},
+	"card-fourty": {
+		"fact": "Co-founder of Instagram",
+		"image": "./images/.jpg",
+		"name": "Mike Krieger"
 	}
 }
