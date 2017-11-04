@@ -4,30 +4,30 @@
 		"image": "./images/.jpg",
 		"name": "Cornelius Vanderbilt"
 	},
-  "card-two": {
+	"card-two": {
+		"fact": "Founder of N. M. Rothschild and Sons",
+		"image": "./images/.jpg",
+		"name": "Nathan Mayer Rotschild"
+	},
+  "card-three": {
 		"fact": "Founder of Standart Oil Company",
 		"image": "./images/.jpg",
 		"name": "John D. Rockefeller"
 	},
-  "card-three": {
+  "card-four": {
 		"fact": "Founder of Carnegie Steel Company",
 		"image": "./images/.jpg",
 		"name": "Andrew Carnegie"
 	},
-  "card-four": {
-		"fact": "Founder of The Walt Disney Company",
-		"image": "./images/.jpg",
-		"name": "Walt Disney"
-	},
   "card-five": {
-		"fact": "Founder of Microsoft",
+		"fact": "Founder of JP Morgan",
 		"image": "./images/.jpg",
-		"name": "Bill Gates"
+		"name": "John Pierpont Morgan"
 	},
-  "card-six": {
-		"fact": "Founder of Apple Inc.",
+	"card-six": {
+		"fact": "Founder of Ford Motor Company",
 		"image": "./images/.jpg",
-		"name": "Steve Jobs"
+		"name": "Henry Ford"
 	},
   "card-seven": {
 		"fact": "Founder of General Electric",
@@ -35,158 +35,158 @@
 		"name": "Thomas Edison"
 	},
 	"card-eight": {
-		"fact": "Founder of Ford Motor Company",
-		"image": "./images/.jpg",
-		"name": "Henry Ford"
-	},
-  "card-nine": {
-		"fact": "Founder of Wal-Mart",
-		"image": "./images/.jpg",
-		"name": "Sam Walton"
-	},
-  "card-ten": {
-		"fact": "Founder of JP Morgan",
-		"image": "./images/.jpg",
-		"name": "John Pierpont Morgan"
-	},
-  "card-eleven": {
-		"fact": "Founder of Oracle",
-		"image": "./images/.jpg",
-		"name": "Larry Ellison"
-	},
-  "card-twelve": {
-		"fact": "Co-founder of Google",
-		"image": "./images/.jpg",
-		"name": "Sergey Brin"
-	},
-  "card-thirteen": {
-		"fact": "Co-founder of Google",
-		"image": "./images/.jpg",
-		"name": "Larry Page"
-	},
-  "card-fourteen": {
-		"fact": "Founder of Dell",
-		"image": "./images/.jpg",
-		"name": "Richard Branson"
-	},
-	"card-fifteen": {
-		"fact": "Founder of Zip2, PayPal, Tesla, and SpaceX",
-		"image": "./images/.jpg",
-		"name": "Elon Musk"
-	},
-  "card-sixteen": {
-		"fact": "Founder of McDonald's",
-		"image": "./images/.jpg",
-		"name": "Ray Croc"
-	},
-  "card-seventeen": {
-		"fact": "Founder of Amazon",
-		"image": "./images/.jpg",
-		"name": "Jeff Bezos"
-	},
-  "card-eighteen": {
-		"fact": "Founder of Alibaba",
-		"image": "./images/.jpg",
-		"name": "Jack Ma"
-	},
-  "card-nineteen": {
-		"fact": "Founder of Dell",
-		"image": "./images/.jpg",
-		"name": "Michael Dell"
-	},
-  "card-twenty": {
-		"fact": "Founder of Facebook",
-		"image": "./images/.jpg",
-		"name": "Mark Zuckerberg"
-	},
-	"card-twenty-one": {
-		"fact": "Co-founder of Microsoft",
-		"image": "./images/.jpg",
-		"name": "Paul Allen"
-	},
-  "card-twenty-two": {
-		"fact": "Founder of Fairchild Semiconductor",
-		"image": "./images/.jpg",
-		"name": "Gordon Moore"
-	},
-	"card-twenty-three": {
-		"fact": "Co-founder of Fairchild Semiconductor",
-		"image": "./images/.jpg",
-		"name": "Robert Noyce"
-	},
-	"card-twenty-four": {
-		"fact": "Founder of AOL",
-		"image": "./images/.jpg",
-		"name": "Steve Case"
-	},
-	"card-twenty-five": {
-		"fact": "Founder of Netscape",
-		"image": "./images/.jpg",
-		"name": "Marc Andreessen"
-	},
-	"card-twenty-six": {
-		"fact": "Founder of N. M. Rothschild and Sons",
-		"image": "./images/.jpg",
-		"name": "Nathan Mayer Rotschild"
-	},
-	"card-twenty-seven": {
-		"fact": "Founder of Nike",
-		"image": "./images/.jpg",
-		"name": "Phil Knight"
-	},
-	"card-twenty-eight": {
-		"fact": "Founder of Electronic Data Systems",
-		"image": "./images/.jpg",
-		"name": "Henry Ross Perot"
-	},
-	"card-twenty-nine": {
 		"fact": "Founder of Getty Oil Company",
 		"image": "./images/.jpg",
 		"name": "Jean Paul Getty"
 	},
-	"card-thirty": {
-		"fact": "Founder of Grupo Carso",
+  "card-nine": {
+		"fact": "Founder of The Walt Disney Company",
 		"image": "./images/.jpg",
-		"name": "Carlos Slim Helú"
+		"name": "Walt Disney"
 	},
-	"card-thirty-one": {
+  "card-ten": {
+		"fact": "Founder of McDonald's",
+		"image": "./images/.jpg",
+		"name": "Ray Croc"
+	},
+  "card-eleven": {
+		"fact": "Founder of Wal-Mart",
+		"image": "./images/.jpg",
+		"name": "Sam Walton"
+	},
+  "card-twelve": {
+		"fact": "Founder of Fairchild Semiconductor",
+		"image": "./images/.jpg",
+		"name": "Gordon Moore"
+	},
+	"card-thirteen": {
+		"fact": "Co-founder of Fairchild Semiconductor",
+		"image": "./images/.jpg",
+		"name": "Robert Noyce"
+	},
+	"card-fourteen": {
 		"fact": "Co-founder of Hewlett-Packard",
 		"image": "./images/.jpg",
 		"name": "Bill Hewlett"
 	},
-	"card-thirty-two": {
+	"card-fifteen": {
 		"fact": "Co-founder of Hewlett-Packard",
 		"image": "./images/.jpg",
 		"name": "David Packard"
 	},
-	"card-thirty-three": {
-		"fact": "Founder of TBS",
+	"card-sixteen": {
+		"fact": "Founder of Kodak",
 		"image": "./images/.jpg",
-		"name": "Ted Turner"
+		"name": "George Eastman"
 	},
-	"card-thirty-four": {
-		"fact": "Founder of Yahoo!",
+	"card-seventeen": {
+		"fact": "Founder of Electronic Data Systems",
 		"image": "./images/.jpg",
-		"name": "Jerry Yang"
+		"name": "Henry Ross Perot"
 	},
-	"card-thirty-five": {
+	"card-eighteen": {
 		"fact": "Founder of Atari",
 		"image": "./images/.jpg",
 		"name": "Nolan Bushnell"
 	},
-	"card-thirty-six": {
+	"card-nineteen": {
 		"fact": "Founder of IKEA",
 		"image": "./images/.jpg",
 		"name": "Ingvar Kamprad"
 	},
-	"card-thirty-seven": {
+	"card-twenty": {
 		"fact": "Founder of Inditex",
 		"image": "./images/.jpg",
 		"name": "Amancio Ortega Gaona"
 	},
-	"card-thirty-eight": {
-		"fact": "Founder of Kodak",
+  "card-twenty-one": {
+		"fact": "Founder of Apple Inc.",
 		"image": "./images/.jpg",
-		"name": "George Eastman"
+		"name": "Steve Jobs"
+	},
+	"card-twenty-two": {
+		"fact": "Founder of Grupo Carso",
+		"image": "./images/.jpg",
+		"name": "Carlos Slim Helú"
+	},
+  "card-twenty-three": {
+		"fact": "Founder of Microsoft",
+		"image": "./images/.jpg",
+		"name": "Bill Gates"
+	},
+	"card-twenty-four": {
+		"fact": "Co-founder of Microsoft",
+		"image": "./images/.jpg",
+		"name": "Paul Allen"
+	},
+	"card-twenty-five": {
+		"fact": "Founder of AOL",
+		"image": "./images/.jpg",
+		"name": "Steve Case"
+	},
+	"card-twenty-six": {
+		"fact": "Founder of Netscape",
+		"image": "./images/.jpg",
+		"name": "Marc Andreessen"
+	},
+  "card-twenty-seven": {
+		"fact": "Founder of Dell",
+		"image": "./images/.jpg",
+		"name": "Michael Dell"
+	},
+	"card-twenty-eight": {
+		"fact": "Founder of Nike",
+		"image": "./images/.jpg",
+		"name": "Phil Knight"
+	},
+  "card-twenty-nine": {
+		"fact": "Founder of Dell",
+		"image": "./images/.jpg",
+		"name": "Richard Branson"
+	},
+	"card-thirty": {
+		"fact": "Founder of TBS",
+		"image": "./images/.jpg",
+		"name": "Ted Turner"
+	},
+  "card-thirty-one": {
+		"fact": "Founder of Amazon",
+		"image": "./images/.jpg",
+		"name": "Jeff Bezos"
+	},
+  "card-thirty-two": {
+		"fact": "Founder of Alibaba",
+		"image": "./images/.jpg",
+		"name": "Jack Ma"
+	},
+  "card-thirty-three": {
+		"fact": "Founder of Oracle",
+		"image": "./images/.jpg",
+		"name": "Larry Ellison"
+	},
+  "card-thirty-four": {
+		"fact": "Co-founder of Google",
+		"image": "./images/.jpg",
+		"name": "Larry Page"
+	},
+  "card-thirty-five": {
+		"fact": "Co-founder of Google",
+		"image": "./images/.jpg",
+		"name": "Sergey Brin"
+	},
+	"card-thirty-six": {
+		"fact": "Founder of Yahoo!",
+		"image": "./images/.jpg",
+		"name": "Jerry Yang"
+	},
+	"card-thirty-seven": {
+		"fact": "Founder of Zip2, PayPal, Tesla, and SpaceX",
+		"image": "./images/.jpg",
+		"name": "Elon Musk"
+	},
+  "card-thirty-eight": {
+		"fact": "Founder of Facebook",
+		"image": "./images/.jpg",
+		"name": "Mark Zuckerberg"
 	}
 }
